@@ -11,6 +11,12 @@ export const materials = {
     friction: 1,
   },
 
+  icey_normal: {
+    color: "#839ea4",
+    outline: "#576669",
+    friction: 0.85,
+  },
+
   water: {
     color: "#2481d7",
     outline: "#14549b",
