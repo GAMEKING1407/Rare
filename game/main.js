@@ -359,7 +359,7 @@ function update() {
   if (checkCollision(player, currentLevel.goal)) {
     const elapsed = ((performance.now() - startTime) / 1000).toFixed(2);
 
-    alert(`Level Complete in ${elapsed}s! Deaths: ${deaths}`);
+    // alert(`Level Complete in ${elapsed}s! Deaths: ${deaths}`);
 
     player.level = (player.level + 1) % levels.length;
 
