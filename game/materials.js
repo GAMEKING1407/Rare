@@ -18,8 +18,8 @@ export const materials = {
   },
 
   glass: {
-    color: "#B8EAF5",
-    outline: "#559EB5",
+    color: "#c2e9f143",
+    outline: "#a8bcc143",
     friction: 0.8,
     durability: 1,
   },
