@@ -47,7 +47,7 @@ const player = {
 
   platform: null,
 
-  level: 0
+  level: levels.length - 1
 };
 
 function resizeCanvas() {
