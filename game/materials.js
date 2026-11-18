@@ -8,7 +8,7 @@ export const materials = {
   ice: {
     color: "#8DEBFF",
     outline: "#399DBB",
-    friction: 0.95,
+    friction: 0.9,
   },
 
   water: {
