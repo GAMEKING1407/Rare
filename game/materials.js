@@ -12,22 +12,9 @@ export const materials = {
   },
 
   icey_normal: {
-    color: "#839ea4",
-    outline: "#576669",
+    color: "#bee4ed",
+    outline: "#89d8ea",
     friction: 0.85,
-  },
-
-  water: {
-    color: "#2481d7",
-    outline: "#14549b",
-    friction: 0.95,
-  },
-
-  glass: {
-    color: "#c2e9f143",
-    outline: "#a8bcc143",
-    friction: 0.8,
-    durability: 1,
   },
 
   stone: {
@@ -41,12 +28,5 @@ export const materials = {
     outline: "#318C43",
     friction: 0.8,
     bounce: 1.3,
-  },
-  
-  cracked_ice: {
-    color: "#8DEBFF6f",
-    outline: "#399DBB6f",
-    friction: 1,
-    durability: 1
-  },
+  }
 };

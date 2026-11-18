@@ -111,9 +111,6 @@
     "height": 1000,
     "spawn": { "x": 60, "y": 0 },
     "goal": { "x": 0, "y": 530, "w": 40, "h": 50 },
-    "platforms": [
-      { "x": 0, "y": 250, "w": 550, "h": 70, "m": "ice" }
-    ],
     "movingPlatforms": [
       {
         "x": 0,
